@@ -83,7 +83,7 @@ TicketTango.API/
 
 ### Prerequisites
 - Node.js (v16 or higher)
-- .NET 6 SDK
+- .NET 8 SDK
 - SQL Server
 
 ### Frontend Setup
@@ -161,6 +161,3 @@ Both frontend and backend implement comprehensive error handling:
 4. Push to the branch
 5. Create a Pull Request
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details. 
